@@ -66,7 +66,7 @@ The dashboard presents the main findings from the analysis in an interactive and
 ├── sql/
 ├── power BI/
 │   └── Customer_Shopping_Behavior.pbix
-├── presentation/
+├── report/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
 ├── images/
 │   └── dashboard.png
