@@ -34,7 +34,7 @@ The dashboard presents the main findings from the analysis in an interactive and
 
 ## 📑 Project Presentation
 
-[View Project Presentation](presentation/Customer_Shopping_Behavior_Analysis.pdf)
+[View Project Presentation](presentation/Customer-Shopping-Behavior-Analysis.pdf)
 
 ## 🗄️ SQL Business Analysis
 
