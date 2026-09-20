@@ -26,6 +26,16 @@ This project analyzes **3,900 customer purchases** to understand spending patter
 * Product and revenue analysis
 * Interactive Power BI dashboard
 
+## 📈 Power BI Dashboard
+
+![Power BI Dashboard](images/dashboard.jpeg)
+
+The dashboard presents the main findings from the analysis in an interactive and visual format.
+
+## 📑 Project Presentation
+
+[View Project Presentation](presentation/Customer_Shopping_Behavior_Analysis.pdf)
+
 ## 🗄️ SQL Business Analysis
 
 The SQL analysis focused on:
@@ -33,19 +43,13 @@ The SQL analysis focused on:
 * Revenue comparison by gender
 * High-spending customers who used discounts
 * Top 5 products based on average ratings
-* Average purchase amount by shipping type
-* Comparison of subscribers and non-subscribers
+* Average purchase amount  and non-subscribers
 * Products with the highest discount usage
 * Customer segmentation into **New, Returning, and Loyal**
 * Top 3 most-purchased products in each category
-* Relationship between repeat buyers and subscriptions
+* Relationship between repeatby shipping type
+* Comparison of subscribers buyers and subscriptions
 * Revenue contribution by age group
-
-## 📈 Power BI Dashboard
-
-![Power BI Dashboard](images/dashboard.jpeg)
-
-The dashboard presents the main findings from the analysis in an interactive and visual format.
 
 ## 💡 Key Insights
 
@@ -59,13 +63,17 @@ The dashboard presents the main findings from the analysis in an interactive and
 ## 📁 Project Structure
 
 ```text
-Customer-Shopping-Behavior-Analysis/
+ Customer-Shopping-Behavior-Analysis/
 │
 ├── data/
-├── pyhton/
+├── python/
 ├── sql/
 ├── power BI/
+│   └── Customer_Shopping_Behavior.pbix
+├── presentation/
+│   └── Customer_Shopping_Behavior_Analysis.pdf
 ├── images/
+│   └── dashboard.png
 └── README.md
 ```
 
@@ -74,4 +82,3 @@ Customer-Shopping-Behavior-Analysis/
 **Irsa Shakeel**
 
 Aspiring Data Analyst | Python | SQL | Power BI
-
