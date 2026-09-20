@@ -26,16 +26,6 @@ This project analyzes **3,900 customer purchases** to understand spending patter
 * Product and revenue analysis
 * Interactive Power BI dashboard
 
-## 📈 Power BI Dashboard
-
-![Power BI Dashboard](images/dashboard.jpeg)
-
-The dashboard presents the main findings from the analysis in an interactive and visual format.
-
-## 📑 Project Presentation
-
-[View Project Presentation](presentation/Customer-Shopping-Behavior-Analysis.pdf)
-
 ## 🗄️ SQL Business Analysis
 
 The SQL analysis focused on:
@@ -50,6 +40,12 @@ The SQL analysis focused on:
 * Relationship between repeatby shipping type
 * Comparison of subscribers buyers and subscriptions
 * Revenue contribution by age group
+
+## 📈 Power BI Dashboard
+
+![Power BI Dashboard](images/dashboard.jpeg)
+
+The dashboard presents the main findings from the analysis in an interactive and visual format.
 
 ## 💡 Key Insights
 
